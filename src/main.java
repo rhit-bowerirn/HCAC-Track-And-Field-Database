@@ -10,12 +10,12 @@ public class main {
 	boolean isUsing = false;
 	static String serverUsername = null;
 	static String serverPassword = null;
-	static DatabaseConnectionService dbService = new DatabaseConnectionService("titan.csse.rose-hulman.edu",
-			"S2G5Demo");
+	static DatabaseConnectionService dbService = new DatabaseConnectionService("[Redacted]",
+			"[Database server was wiped]");
 
 	public static void main(String[] args) {
-		serverUsername = "HCAC_Account";
-		serverPassword = "TrackAndField";
+		serverUsername = "[Account deleted]";
+		serverPassword = "[Account deleted]";
 		
 		try {
 			dbService.connect(serverUsername, serverPassword);
