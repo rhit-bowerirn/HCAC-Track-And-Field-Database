@@ -1,0 +1,37 @@
+Anderson,Huffman,Nic,TRUE,Run
+Anderson,Johnson,Karis,FALSE,Run
+Anderson,Johnson,Felisha,FALSE,Throw
+Anderson,Truman,Mike,FALSE, Jump
+Anderson,Leatherman,Ian,FALSE,Run
+Bluffton,Markison,Ben,TRUE,Run/Jump/Throw
+Bluffton,Fox,Stephanie,FALSE,Throw
+Defiance,Christianson,Nathan,TRUE,Run/Jump/Throw
+Defiance,Postema,Tom,FALSE,Throw
+Earlham,Baker,Nate,TRUE,Run/Jump/Throw
+Earlham,Mills,Shane,FALSE,Run
+Franklin,Bailey,Demetrius,TRUE,Jump
+Franklin,Dworak,Brandon,FALSE,Run
+Franklin,Martin,Les,FALSE,Run
+Franklin,Clor,Emma,FALSE,Run/Jump/Throw
+Franklin,Baker,Doug,FALSE,Run/Jump/Throw
+Franklin,Fields,Hunter,FALSE,Run/Jump/Throw
+Hanover,Sharpe,Rachel,TRUE,Run/Jump/Throw
+Hanover,Wells,Brady,FALSE,Run
+Hanover,Kessler,Mitchell,FALSE,Run/Jump/Throw
+Manchester,Cashdollar,Brian,TRUE,Run
+Manchester,Andrews,Matt,FALSE,Run
+Manchester,Katon,Sam,FALSE,Throw
+Manchester,White,Andre,FALSE,Jump
+Mount St. Joseph,Blakley,Tina,TRUE,Run
+Mount St. Joseph,Truss,Antone,FALSE,Run/Jump/Throw
+Mount St. Joseph,Bell,Casey,FALSE,Throw
+Mount St. Joseph,McConnel,Warren,FALSE,Run
+Mount St. Joseph,Deaton,Benny,FALSE,Run/Jump/Throw
+Mount St. Joseph,Hautman,Jim,FALSE,Throw
+Rose-Hulman,Cole,Larry,TRUE,Run
+Rose-Hulman,Lawrence,Derick,FALSE,Run
+Rose-Hulman,Sherman,Christy,FALSE,Throw
+Rose-Hulman,Evans,Liz,FALSE,Jump
+Transylvania,McNulty,Sean,TRUE,Run
+Transylvania,Maxwell,Emily,FALSE,Run
+Transylvania,Bridges,O'Brian,FALSE,Run/Jump
